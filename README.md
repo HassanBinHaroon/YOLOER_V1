@@ -10,4 +10,6 @@ YOLOER stands for You Only Look Once and Estimate Range while V1 implies the ver
  ### 3. Training of Object Detector 
  ### 4. Training of Distance Estimator
 
+## Inference on Local Machine Webcam
+
 Note! The project is still in progress. 
