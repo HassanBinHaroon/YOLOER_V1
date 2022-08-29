@@ -3,6 +3,9 @@ YOLOER stands for You Only Look Once and Estimate Range while V1 implies the ver
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HassanBinHaroon/YOLOER_V1/blob/master/YOLOER_V1.ipynb)
 
+# Demo 
+Coming Soon  
+
 ## Table of Contents
 
  ### 1. Inference on Local Machine Webcam
@@ -44,5 +47,24 @@ Moreover, we prefer working in Conda environments and it is recommended to insta
 
       python detect.py --save-txt --weights yolov5s.pt --conf 0.4 --source ../videos/car.jpg --model_dist model@1535470106.json --weights_dist model@1535470106.h5
       
-      
+## Inference on Google Colab (quick start)
+
+Click on the following link.
+
+https://colab.research.google.com/github/HassanBinHaroon/YOLOER_V1/blob/master/YOLOER_V1.ipynb
+
+### Must Do After Clicking
+
+>>>>> Change runtime type
+
+![](https://github.com/HassanBinHaroon/YOLOER_V1/tree/master/images/im1.png)
+
+#### >>>>> Select GPU
+
+![](https://github.com/HassanBinHaroon/YOLOER_V1/tree/master/images/im2.png)
+
+#### >>>>> Run All
+
+![](https://github.com/HassanBinHaroon/YOLOER_V1/tree/master/images/im3.png)
+
 Note! The project is still in progress. 
