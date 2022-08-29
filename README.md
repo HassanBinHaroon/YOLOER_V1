@@ -20,6 +20,29 @@ Moreover, we prefer working in Conda environments and it is recommended to insta
 
 #### Step 1
 
+      conda create --name YOLOER_V1 python=3.7 -y && conda activate YOLOER_V1 
+      
+#### Step 2      
+      
       git clone https://github.com/HassanBinHaroon/YOLOER_V1.git
+      
+#### Step 3
 
+      cd YOLOER_V1/object-detector_PLUS_distance-estimator
+      
+#### Step 4
+
+      pip install -r requirements.txt
+      
+#### Step 5
+
+      python setup.py
+      
+#### Step 6
+
+### Inference Execution Command
+
+      python detect.py --save-txt --weights yolov5s.pt --conf 0.4 --source ../videos/car.jpg --model_dist model@1535470106.json --weights_dist model@1535470106.h5
+      
+      
 Note! The project is still in progress. 
