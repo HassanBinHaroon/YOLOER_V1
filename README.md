@@ -5,9 +5,9 @@ YOLOER stands for You Only Look Once and Estimate Range while V1 implies the ver
 
 ## Table of Contents
 
- 1. Inference on Local Machine Webcam
- 2. Inference on Google Colab
- 3. Training of Object Detector 
- 4. Training of Distance Estimator
+ ### 1. Inference on Local Machine Webcam
+ ### 2. Inference on Google Colab
+ ### 3. Training of Object Detector 
+ ### 4. Training of Distance Estimator
 
 Note! The project is still in progress. 
