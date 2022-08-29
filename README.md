@@ -55,16 +55,16 @@ https://colab.research.google.com/github/HassanBinHaroon/YOLOER_V1/blob/master/Y
 
 ### Must Do After Clicking
 
->>>>> Change runtime type
+#### >>>>> Change runtime type
 
-![](https://github.com/HassanBinHaroon/YOLOER_V1/tree/master/images/im1.png)
+![](https://github.com/HassanBinHaroon/YOLOER_V1/blob/master/images/im1.png)
 
 #### >>>>> Select GPU
 
-![](https://github.com/HassanBinHaroon/YOLOER_V1/tree/master/images/im2.png)
+![](https://github.com/HassanBinHaroon/YOLOER_V1/blob/master/images/im2.png)
 
 #### >>>>> Run All
 
-![](https://github.com/HassanBinHaroon/YOLOER_V1/tree/master/images/im3.png)
+![](https://github.com/HassanBinHaroon/YOLOER_V1/blob/master/images/im3.png)
 
 Note! The project is still in progress. 
